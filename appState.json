@@ -24,30 +24,6 @@
         },
         "triggers": [],
         "lastUpdated": 1609837498468
-      },
-      "f6d307a3-b873-46c8-9029-bd01fa48b4ed": {
-        "id": "f6d307a3-b873-46c8-9029-bd01fa48b4ed",
-        "parent": null,
-        "name": "test.js",
-        "type": "JS_LAMBDA",
-        "isDirectory": false,
-        "children": [],
-        "isRemovable": true,
-        "filePath": "test.js",
-        "cursor": {
-          "lineNumber": 2,
-          "column": 7
-        },
-        "config": {
-          "runtime": "nodejs10.x",
-          "handler": "handler",
-          "timeout": 60,
-          "memory": 128,
-          "layers": [],
-          "name": "test"
-        },
-        "triggers": [],
-        "lastUpdated": 1609837496660
       }
     },
     "openFiles": [
@@ -84,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1609837501457
+    "lastSave": 1609837640345
   },
   "VCS_STATE": {
     "provider": "GitHub",
