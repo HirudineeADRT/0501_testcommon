@@ -1,0 +1,96 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "9703e6e5-cd12-4f42-bb71-64bc3150594a": {
+        "id": "9703e6e5-cd12-4f42-bb71-64bc3150594a",
+        "parent": null,
+        "name": "0501_TestCommon.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "0501_TestCommon.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 11
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "0501TestCommon"
+        },
+        "triggers": [],
+        "lastUpdated": 1609837498468
+      },
+      "f6d307a3-b873-46c8-9029-bd01fa48b4ed": {
+        "id": "f6d307a3-b873-46c8-9029-bd01fa48b4ed",
+        "parent": null,
+        "name": "test.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 7
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "test"
+        },
+        "triggers": [],
+        "lastUpdated": 1609837496660
+      }
+    },
+    "openFiles": [
+      "9703e6e5-cd12-4f42-bb71-64bc3150594a"
+    ],
+    "currentFileId": "9703e6e5-cd12-4f42-bb71-64bc3150594a",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.5.0",
+    "projectName": "0501_TestCommon",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1609837501457
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "0501_testcommon",
+      "url": "https://github.com/HirudineeADRT/0501_testcommon"
+    }
+  }
+}
